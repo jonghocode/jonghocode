@@ -1,16 +1,30 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=👋Wellcome%20jonghocode&fontSize=70)
+<br>
 
-<!--
-**jonghocode/jonghocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h3>📚 STACKS</h3>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+<br><br>
 
-Here are some ideas to get you started:
+<div align=center>
+	<p>🏆 Baekjoon solved rank</p>
+	
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whdgh256)](https://solved.ac/whdgh256)
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+	<p>🎨 SNS & Blog
+    <br><br>
+	<a href="https://whdgh256.tistory.com">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+    #인스타그램
+	<br>
+</div>
+  
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
