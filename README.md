@@ -11,7 +11,7 @@
 
 <div align=center>
 	<p>🏆 Baekjoon solved rank</p>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={whdgh256})](https://solved.ac/{whdgh256})
+[![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/whdgh256)](https://solved.ac/whdgh256)
 </div>
 <br>
 
