@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=👋Wellcome%20jonghocode&fontSize=70)
 <br>
 
-<div align="center">
+<div align=center>
 <h3>📚 STACKS</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
@@ -10,10 +10,11 @@
 <br><br>
 
 <div align=center>
-	<p>🏆 Baekjoon solved rank</p>
+
+🏆 Baekjoon solved rank<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgh256)](https://solved.ac/whdgh256/)
+
 </div>
-<br>
 
 <div align=center>
 	<p>🎨 SNS & Blog
@@ -24,6 +25,9 @@
     #인스타그램
 	<br>
 </div>
+<br>
+
+<br>
   
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
